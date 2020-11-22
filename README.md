@@ -1,3 +1,6 @@
-# Professional README Generator Starter Code
+# Professional README Generator 
 
-[How to create a Professional README](./readme-guide.md)
+
+This is an app to generate a professional README.md for any project. Including a badge for a license and links to your github and email address.
+
+![Video walkthrough](https://www.youtube.com/watch?v=k6N9lzlESNs)
